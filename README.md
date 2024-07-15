@@ -1,7 +1,6 @@
 # DemoBlaze
 
-Technologies Used :
-1. Manual testing 
+**Manual testing** 
 
 
 
