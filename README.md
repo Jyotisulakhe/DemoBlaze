@@ -8,7 +8,10 @@
 - **Test Cases**
 - **Bug Reports**
 
-## Objective: Ensure the functionality, usability, and reliability of the DemoBlaze website.
+
+
+## Objective: 
+**Ensure the functionality, usability, and reliability of the DemoBlaze website.**
 
 ## Scope:
 
