@@ -23,8 +23,8 @@ Checkout process
 
 ## Schedule:
 
-Start Date: [29 April 2024]
-End Date: [30 April 2024]
+- **Start Date:** [29 April 2024]
+- **End Date:** [30 April 2024]
 
 
 ## Test Scenarios
