@@ -3,10 +3,10 @@
 **This repository documents the manual testing process for the DemoBlaze e-commerce website, covering test planning, scenario design, test case, mind mapping, and bug reporting.**
 
 ## Contents
-Mind Map
-Test Scenarios
-Test Cases
-Bug Reports
+- **Mind Map**
+- **Test Scenarios**
+- **Test Cases**
+- **Bug Reports**
 
 ## Objective: Ensure the functionality, usability, and reliability of the DemoBlaze website.
 
